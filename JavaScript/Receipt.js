@@ -1,0 +1,12 @@
+console.log("==================================");
+console.log("  Wendy's RECEIPT ");
+console.log("==================================");
+console.log("    Order Details  ");
+console.log(" Item         Quantity    Price");
+console.log("----------------------------------");
+console.log("Asiago Ranch Chicken Sandwich   1    6.49");
+console.log("Fries                     1    2.49");
+console.log("Soda                      1    1.99");
+console.log("----------------------------------");
+console.log("Total                          10.97");
+console.log("==================================");
